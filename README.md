@@ -7,3 +7,11 @@ Watch the full [Docker video](https://youtu.be/gAkwW2tuIqE) on YouTube or read t
 ## TODO: Implement Docker with FFmpeg
 
 This tutorial on running FFmpeg in Docker might be useful: https://github.com/jrottenberg/ffmpeg
+
+## TODO: Implement Docker hosting Django
+
+Docker with Django: https://www.youtube.com/watch?v=rz-W7-sccKk&t=541s
+
+Better Captions API:
+tts: openai
+stt: vosk
