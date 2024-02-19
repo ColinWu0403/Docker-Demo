@@ -1,4 +1,4 @@
-# Docker + Node.js
+# Docker: FFmpeg, Python, Django
 
 Dockerize a Node.js app.
 
@@ -13,6 +13,7 @@ https://stackoverflow.com/questions/50053313/how-to-make-ffmpeg-available-inside
 ## TODO: Implement Docker hosting Django
 
 Docker with Django: https://www.youtube.com/watch?v=rz-W7-sccKk&t=541s
+https://semaphoreci.com/community/tutorials/dockerizing-a-python-django-web-application
 
 Better Captions API:
 tts: openai
